@@ -49,7 +49,7 @@ This project entity having different layers like:
  4) you need a postman application to perform queries, 
     use the link: http://localhost:8080/products.
  5) You can put Json query as shown below
-  ex{
+  ex={
         "pid": 1001,
         "pname": "Lenovo Yoga",
         "ptype": "Laptop",
