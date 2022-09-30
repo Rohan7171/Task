@@ -48,3 +48,11 @@ This project entity having different layers like:
  3) open the class Application.java and run the project as java application.
  4) you need a postman application to perform queries, 
     use the link: http://localhost:8080/products.
+ 5) You can put Json query as shown below
+  ex{
+        "pid": 1001,
+        "pname": "Lenovo Yoga",
+        "ptype": "Laptop",
+        "pcategory": "Electronics",
+        "pprice": 45000
+    }
